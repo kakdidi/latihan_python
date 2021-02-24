@@ -1,3 +1,3 @@
-run="python main.py"
+run="python method.py"
 language = "python3"
 onBoot="echo Booting up!"
